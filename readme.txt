@@ -1,3 +1,6 @@
+GET API for certificate list - localhost:4000/user/getUser
+POST API to add certificate - localhost:4000/user/postData
+
 //Database queries
 
 create database dashboard;
